@@ -19,7 +19,7 @@ A simple Solidity smart contract that enables users to **list** and **purchase d
 - **Ethereum / EVM-compatible chain**
 - **ERC-20 token interface**
 - **Remix IDE** (for deployment)
-- **GitHub** (for code versioning)
+- **GitHub** (for version control)
 
 ---
 
@@ -41,5 +41,36 @@ Purchase an item using approved ERC-20 tokens.
 
 ## 📦 Deployment Info
 
-- ✅ Contract deployed on: *EVM-compatible network (e.g., Ethereum testnet / Remix VM)*
-- 🧾 **Transaction Hash** (initial deployment):  
+- ✅ **Deployed via**: Remix IDE
+- 🧾 **Transaction Hash (Contract Deployment)**:  
+  [`0xc308ccfb0e4735ffc1f6cf6eb2e82623937ceae1cef456cb24e6ea94cd718773`](https://etherscan.io/tx/0xc308ccfb0e4735ffc1f6cf6eb2e82623937ceae1cef456cb24e6ea94cd718773)
+
+> You can view the contract deployment and execution details using this hash on the block explorer of your deployment network.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to fork, improve, or use in your own projects.
+
+---
+
+## 🙌 Author
+
+**Tousif Azim**  
+GitHub: [@Tousif18](https://github.com/Tousif18)  
+LinkedIn: [tousifazim](https://www.linkedin.com/in/tousifazim)
+
+---
+
+## 💡 Future Improvements
+
+- Add royalty & commission systems
+- Support listing with IPFS metadata
+- Add refund/dispute logic
+- Integrate with frontend (React + Ethers.js)
+
+---
+
+### ⭐️ Star this repo if you find it useful!
